@@ -1,4 +1,4 @@
-<h2> (Jiren)🙏🏻, I'm Hangsia! <img src="https://media.giphy.com/media/3o6wrt9hLJbptLFboY/giphy.gif" width="50"></h2>
+<h2> (こんにちは)🙏🏻, I'm Hangsia! <img src="https://media.giphy.com/media/3o6wrt9hLJbptLFboY/giphy.gif" width="50"></h2>
 
 <p><em>Seeking opportunity <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
