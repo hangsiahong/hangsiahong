@@ -21,7 +21,6 @@ fn main() {
         skills: vec!["Rust", "Python", "Linux"],
         hobbies: vec!["Game", "Anime", "Music"],
     };
-    println!("{:?}", myself);
 }
   
 ```
