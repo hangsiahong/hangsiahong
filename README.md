@@ -1,33 +1,23 @@
-<h2> (こんにちは)🙏🏻, I'm Hangsia! <img src="https://media.giphy.com/media/3o6wrt9hLJbptLFboY/giphy.gif" width="50"></h2>
+# Hi there! I'm Hangsia Hong 👋
 
+I am a passionate and dedicated software developer with a focus on creating efficient and innovative solutions. With a strong foundation in programming and a love for technology, I continuously strive to learn and grow in the tech industry.
 
+## 🚀 Skills & Technologies
 
-### <img src="https://media.giphy.com/media/1kJxyyCq9ZHXX0GM3a/giphy.gif" width="50"> Get to know me...  
+- **Programming Languages**: Rust, Python
+- **Operating Systems**: Linux
+- **Development Tools**: Git, Docker, VS Code
 
-```rust
-struct Human<'a> {
-    name: String,
-    sex: String,
-    age: u8,
-    skills: Vec<&'a str>,
-    hobbies: Vec<&'a str>,
-}
+## 🎯 Areas of Expertise
 
-fn main() {
-    let myself = Human {
-        name: String::from("Hangsia Hong"),
-        sex: String::from("Male"),
-        age: 19,
-        skills: vec!["Rust", "Python", "Linux"],
-        hobbies: vec!["Game", "Anime", "Music"],
-    };
-}
-  
-```
+- **Systems Programming**: Building high-performance applications with Rust
+- **Scripting & Automation**: Developing scripts and tools in Python to automate tasks
+- **Software Development**: Designing and implementing scalable solutions
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to know you more!</b> 😊</em>
+## 🌟 Hobbies & Interests
 
----
+- **Gaming**: Exploring new games and understanding game mechanics
+- **Anime**: Enjoying a wide range of anime genres and series
+- **Music**: Listening to diverse music styles and discovering new artists
 
-**🐱 My Github Data** 
-todo!
+Feel free to check out my repositories and projects to see what I'm working on!
